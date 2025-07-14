@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321272147906",
+    "project_id": "rptest-ebb20",
+    "storage_bucket": "rptest-ebb20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321272147906:android:726ac32415b3e96631305b",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvM6SKFrSmfWZwbRPEHkDbCv6hOUck9kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321272147906:android:f356ca8d72f1083331305b",
+        "android_client_info": {
+          "package_name": "com.example.rptests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvM6SKFrSmfWZwbRPEHkDbCv6hOUck9kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
